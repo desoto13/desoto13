@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Windel Misa</h1>
-<h3 align="center">A Junior Project Manager and an Aspiring developer</h3>
-
-- 🌱 I’m currently learning **Ruby and Ruby on Rails**
+<h3 align="center">A Software Engineer (Ruby on Rails)</h3>
 
 - 👨‍💻 All of my projects are available at [https://wbmisa.netlify.app/](https://wbmisa.netlify.app/)
 
