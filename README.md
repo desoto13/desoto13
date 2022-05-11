@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Windel Misa</h1>
 <h3 align="center">A Software Engineer (Ruby on Rails)</h3>
 
-- 👨‍💻 All of my projects are available at [https://desoto13.github.io/Portfolio/]https://desoto13.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://desoto13.github.io/Portfolio/](https://desoto13.github.io/Portfolio/)
 
 - 📫 How to reach me **engr.misa.windel@gmail.com**
 
